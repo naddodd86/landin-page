@@ -1,2 +1,2 @@
-# landin-page
+# landig-page
 A landing page created using, html and css
