@@ -1,2 +1,3 @@
 # landing-page
-A landing page created using, html an css.WHilw followin the example given.
+
+This page is being built using an example given, to assess my knowledge in the CSS foundations course on The Odin Project. 
