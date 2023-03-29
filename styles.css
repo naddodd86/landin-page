@@ -73,8 +73,10 @@ div {
 .hero-whole {
 	display: flex;
 	justify-content: center;
-	flex: 1;
-	padding: 0;
+	align-content: center;
+	background-color:  #1f2937;
+	width: 100vw;
+	padding: 48px;
 }
 
 
@@ -86,7 +88,7 @@ button {
 	font-family: Roboto;
 	font-weight: 300;
 	border-radius: 15px;
-	padding: 8px;
+	padding: 4px;
 }
 
 .keyboard {
@@ -97,4 +99,5 @@ button {
 H2 {
 	display: flex;
 	justify-content: center;
+	padding: 48px; 
 }
