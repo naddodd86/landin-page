@@ -93,3 +93,8 @@ button {
 	width: 550px;
 	height: 350px;
 }
+
+H2 {
+	display: flex;
+	justify-content: center;
+}
