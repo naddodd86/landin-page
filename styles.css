@@ -131,8 +131,28 @@ H2 {
 }
 
 .box {
-	border: 5px solid #1f2937;
+	border: 5px solid #3882f6;
 	border-radius: 18px;
 	width: 160px;
 	height: 160px;
 }
+
+.quote {
+	background-color: #e5e7eb;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 3em;
+	
+	
+}
+
+em {
+	font-size: 36px;
+	font-style: italic;
+	font-weight: 100;
+	max-width: 650px;
+
+}
+
