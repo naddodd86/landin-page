@@ -83,12 +83,17 @@ div {
 
 
 button {
+	display: inline;
 	background-color: #3882f6;
 	color: #f9faf8;
 	font-family: Roboto;
 	font-weight: 300;
-	border-radius: 15px;
-	padding: 4px;
+	border-radius: 18px;
+	padding: 8px;
+	width: 160px;
+	border-color: #e5e7eb;
+	border-style: solid;
+
 }
 
 .keyboard {
@@ -180,4 +185,29 @@ em {
 	align-items: center;
 	gap: 4em;
 
+}
+
+h3 {
+	color:#f9faf8;
+	font-size: 24px;
+	font-weight: 500;
+}
+
+h5 {
+	color:#f9faf8;
+	font-weight: 100;
+}
+
+.bottom-button {
+	border: 4px #f9faf8;
+	
+}
+
+.real-footer {
+	display: flex;
+	background-color:#1f2937;
+	height: 60px;
+	justify-content: center;
+	align-items: center;
+	color: #e5e7eb;
 }
